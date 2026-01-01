@@ -1,2 +1,2 @@
 # CloneForge
-Forging my developer tools from open source.
+A personal forge where open-source code is heated, hammered, and turned into my own tools.
