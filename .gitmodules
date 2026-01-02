@@ -1,3 +1,6 @@
 [submodule "torchWI"]
 	path = torchWI
 	url = https://github.com/maguman/torchWI.git
+[submodule "homemade-machine-learning"]
+	path = homemade-machine-learning
+	url = https://github.com/maguman/homemade-machine-learning.git
