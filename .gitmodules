@@ -1,0 +1,3 @@
+[submodule "torchWI"]
+	path = torchWI
+	url = https://github.com/maguman/torchWI.git
