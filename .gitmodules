@@ -4,3 +4,6 @@
 [submodule "homemade-machine-learning"]
 	path = homemade-machine-learning
 	url = https://github.com/maguman/homemade-machine-learning.git
+[submodule "transform2021"]
+	path = transform2021
+	url = https://github.com/maguman/transform2021.git
